@@ -1,78 +1,101 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
-<p align="center">Frontend Developer | Embedded Systems Engineer | Tech Explorer</p>
+<!-- Main Heading -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlign=center&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <strong>Frontend Developer</strong> &nbsp;|&nbsp;
+  <strong>Embedded Systems Engineer</strong> &nbsp;|&nbsp;
+  <strong>Tech Explorer</strong>
+</div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a frontend developer with a background in embedded systems engineering. Over the past four years, I’ve gained strong skills in building modern web interfaces, with a clear passion for creating smart, functional, and well-structured digital experiences.
+I'm a frontend developer with a solid foundation in embedded systems engineering.  
+Over the past 4+ years, I've built modern user interfaces, designed system-level solutions, and collaborated across hardware and software teams.
 
-After spending over two years working on embedded system projects, I realized the power of combining web development with hardware to create complete solutions. Now, I am expanding my backend and AI knowledge to push my projects further.
+I'm currently focused on:
+
+- Creating intuitive, high-performance UIs
+- Bridging embedded systems with full-stack applications
+- Leveraging AI to augment development, not replace it
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### 🧩 Programming Languages
+### 🚀 Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
 </p>
 
-### 🧱 Frameworks and Libraries
+### 🧩 Frameworks & Libraries
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery"/>
 </p>
 
-### 🎨 UI/UX & Design Tools
+### 🎨 UI/UX Design
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
 </p>
 
-Tools & Practices: User Research, Prototyping, Usability Testing, Data Analysis
-
----
-
-## Tools I Work With
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C Language"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </p>
 
 ---
 
-## Ongoing Learning & Goals
+## 📈 GitHub Stats
 
-- Backend development with Node.js and Python
-- Building tools to simplify embedded systems programming
-- Developing open-source projects using AI as an assistant, not a replacement
-- Preparing for graduate studies focused on IoT and smart systems
-
----
-
-## GitHub Stats
-
-<!-- يمكنك إخفاء هذه الإحصائيات لو أردت -->
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## Contact & Portfolio
+## 🚀 Current Goals
 
-- 📬 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [your-website.com](https://your-website.com)  
+- 🧠 Master backend development using Node.js & Python
+- ⚙️ Build developer-friendly tools for embedded systems
+- 🌍 Contribute to open-source projects using AI responsibly
+- 🎓 Research and innovate in IoT & Edge Computing
 
 ---
 
-<sub>This profile is carefully handcrafted. AI tools are used responsibly — as support, not substitution.</sub>
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56ccf2,100:2f80ed&height=120&section=footer"/>
+</div>
+
