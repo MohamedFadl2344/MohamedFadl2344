@@ -11,11 +11,11 @@
 I’m a **Front-End Developer** with over 3 years of experience in building structured, high-performance web applications. My approach blends user-first design thinking with a strong foundation in clean, scalable architecture. I specialize in translating concepts into fully functional digital interfaces.
 
 ### Highlights:
-- ⚡️ Responsive, mobile-first design
-- 🧩 Component-based architecture with React
-- 🎯 Focus on performance & accessibility
-- 🛠 Modular, maintainable codebases
-- 🚀 Passionate about modern front-end ecosystems (Next.js, TypeScript, Tailwind CSS)
+- Responsive, mobile-first design
+- Component-based architecture with React
+- Focus on performance & accessibility
+- Modular, maintainable codebases
+- Passionate about modern front-end ecosystems (Next.js, TypeScript, Tailwind CSS)
 
 I believe great front-end engineering is about delivering experiences that are not only usable but delightful.
 
@@ -60,9 +60,9 @@ I believe great front-end engineering is about delivering experiences that are n
 
 ## Connect with Me
 
-- 🔗 **LinkedIn**: [mohamedfadl2344](https://linkedin.com/in/mohamedfadl2344)
-- 💻 **GitHub**: [MohamedFadl2344](https://github.com/MohamedFadl2344)
-- 🌐 **Portfolio**: Coming Soon
+- **LinkedIn**: [mohamedfadl2344](https://linkedin.com/in/mohamedfadl2344)
+- **GitHub**: [MohamedFadl2344](https://github.com/MohamedFadl2344)
+- **Portfolio**: [https://mohamedfadl-portfolio.vercel.app](https://mohamedfadl-portfolio.vercel.app)
 
 ---
 
