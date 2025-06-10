@@ -59,7 +59,7 @@ I believe great front-end engineering is about delivering experiences that are n
 
 ## Connect with Me
 
-- **LinkedIn**: [mohamedfadl2344](https://linkedin.com/in/mohamedfadl2344)
+- **LinkedIn**: [Mohamed Fadl](https://www.linkedin.com/in/mohamed-fadl-engineer/)
 - **GitHub**: [MohamedFadl2344](https://github.com/MohamedFadl2344)
 - **Portfolio**: [https://mohamedfadl-portfolio.vercel.app](https://mohamedfadl-portfolio.vercel.app)
 
