@@ -15,7 +15,7 @@ I’m a **Front-End Developer** with over 3 years of experience in building stru
 - Component-based architecture with React
 - Focus on performance & accessibility
 - Modular, maintainable codebases
-- Passionate about modern front-end ecosystems (Next.js, TypeScript, Tailwind CSS)
+- Passionate about modern front-end ecosystems (TypeScript, Tailwind CSS)
 
 I believe great front-end engineering is about delivering experiences that are not only usable but delightful.
 
@@ -34,7 +34,6 @@ I believe great front-end engineering is about delivering experiences that are n
 ### Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" />
 </p>
