@@ -7,37 +7,34 @@
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-I'm a **Front-End Developer** with 3–4 years of professional experience in crafting seamless, responsive, and interactive web interfaces. I specialize in translating designs into elegant code, optimizing UI performance, and creating pixel-perfect websites.
+Hi there! I'm a **Front-End Developer** with 3–4 years of experience building responsive, user-centric web applications.
 
-My code is clean.  
-My designs are sharp.  
-My goal? Deliver immersive web experiences that users will remember.
+- 🔍 Focused on clean, maintainable code and modern UI principles.  
+- 🎯 Skilled at turning designs into engaging user experiences.  
+- 💡 Passionate about learning, creativity, and performance.
 
 ---
 
-## 🚀 Core Technologies
+## 🚀 Tech Stack
 
-### Languages & Markup
-
-<p align="left">
+### 💻 Languages
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 </p>
 
-### Frameworks & Libraries
-
-<p align="left">
+### ⚙️ Frameworks & Libraries
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery"/>
 </p>
 
-### Styling & Animations
-
-<p align="left">
+### 🎨 Styling & Animations
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="Styled Components"/>
@@ -45,9 +42,8 @@ My goal? Deliver immersive web experiences that users will remember.
 
 ---
 
-## 🧰 Development Tools
-
-<p align="left">
+## 🛠 Tools I Use
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
@@ -56,9 +52,8 @@ My goal? Deliver immersive web experiences that users will remember.
 
 ---
 
-## 🎨 Design & Prototyping
-
-<p align="left">
+## 🎨 Design Tools
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
@@ -66,8 +61,7 @@ My goal? Deliver immersive web experiences that users will remember.
 
 ---
 
-## 📊 GitHub Analytics
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedFadl2344&show_icons=true&theme=tokyonight&hide_title=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&theme=tokyonight" height="150" />
@@ -75,9 +69,8 @@ My goal? Deliver immersive web experiences that users will remember.
 
 ---
 
-## 📫 Contact Me
-
-<p align="left">
+## 📬 Get in Touch
+<p>
   <strong>Portfolio:</strong> <a href="https://your-website.com">your-website.com</a><br>
   <strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a><br>
   <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/your-profile">linkedin.com/in/your-profile</a>
@@ -87,5 +80,5 @@ My goal? Deliver immersive web experiences that users will remember.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:007ACC&height=120&section=footer"/>
-  <p><sub>Designed & maintained by a passionate Front-End Developer. Clean Code. Modern UI. Sharp Results.</sub></p>
+  <p><sub>Crafted with care by a dedicated Front-End Developer — Clean Code | Modern UI | Lasting Impact</sub></p>
 </div>
