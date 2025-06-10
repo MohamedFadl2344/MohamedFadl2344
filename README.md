@@ -1,27 +1,27 @@
-# 👨‍💻 Mohamed Fadl — Front-End Developer
+# Mohamed Fadl — Front-End Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Front-End+Developer;Clean+Code+Craftsman;Modern+UI+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Front-End+Developer;Clean+Code+Craftsman;Modern+UI+Engineer)](https://git.io/typing-svg)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C8FF&height=140&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontColor=ffffff)
-
----
-
-## 📌 About Me
-
-I’m a **Front-End Developer** with over 3 years of experience building responsive, accessible, and performance-optimized web applications. I focus on writing scalable and maintainable code, transforming UI/UX designs into functional, pixel-perfect components, and delivering seamless web experiences.
-
-### ✅ Areas of Focus:
-- Performance-first development
-- Mobile-first & responsive design
-- Clean architecture & modular CSS
-- Accessibility & user-centric workflows
-- Continuous learning and exploring new tech
-
-I strive to bridge the gap between elegant design and robust engineering.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C8FF&height=160&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontColor=ffffff)
 
 ---
 
-## 🚀 Tech Stack
+## About Me
+
+I’m a **Front-End Developer** with over 3 years of experience in building structured, high-performance web applications. My approach blends user-first design thinking with a strong foundation in clean, scalable architecture. I specialize in translating concepts into fully functional digital interfaces.
+
+### Highlights:
+- ⚡️ Responsive, mobile-first design
+- 🧩 Component-based architecture with React
+- 🎯 Focus on performance & accessibility
+- 🛠 Modular, maintainable codebases
+- 🚀 Passionate about modern front-end ecosystems (Next.js, TypeScript, Tailwind CSS)
+
+I believe great front-end engineering is about delivering experiences that are not only usable but delightful.
+
+---
+
+## Tech Stack
 
 ### Languages
 <p>
@@ -49,14 +49,25 @@ I strive to bridge the gap between elegant design and robust engineering.
 
 ---
 
-## 📫 Let's Connect
+## GitHub Insights
 
-- **LinkedIn**: [mohamedfadl2344](https://linkedin.com/in/mohamedfadl2344)
-- **GitHub**: [MohamedFadl2344](https://github.com/MohamedFadl2344)
-- **Portfolio**: Coming Soon
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedFadl2344&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## Connect with Me
+
+- 🔗 **LinkedIn**: [mohamedfadl2344](https://linkedin.com/in/mohamedfadl2344)
+- 💻 **GitHub**: [MohamedFadl2344](https://github.com/MohamedFadl2344)
+- 🌐 **Portfolio**: Coming Soon
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:007ACC&height=120&section=footer" />
+  <br />
+  <sub>Designed & crafted with passion for clean code and elegant interfaces.</sub>
 </p>
