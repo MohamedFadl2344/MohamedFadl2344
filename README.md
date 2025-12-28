@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;React+%7C+TypeScript+%7C+Tailwind+CSS;3%2B+Years+of+Front-End+Mastery;Clean+Code+%26+Scalable+Architecture)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=MohamedFadl2344&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedFadl2344&label=Profile%20Views&color=0e75b6&style=flat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedfadl-portfolio.vercel.app)
@@ -37,28 +37,10 @@ const mohamed = {
 
 ### What I Do
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>Crafting Pixel-Perfect UIs</b><br/>
-      Transforming designs into responsive, accessible interfaces
-    </td>
-    <td width="50%">
-      <b>Performance Optimization</b><br/>
-      Building fast, efficient web applications
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>Component Architecture</b><br/>
-      Creating reusable, maintainable code structures
-    </td>
-    <td width="50%">
-      <b>Mobile-First Development</b><br/>
-      Ensuring seamless experiences across all devices
-    </td>
-  </tr>
-</table>
+- **Crafting Pixel-Perfect UIs** — Transforming designs into responsive, accessible interfaces
+- **Performance Optimization** — Building fast, efficient web applications  
+- **Component Architecture** — Creating reusable, maintainable code structures
+- **Mobile-First Development** — Ensuring seamless experiences across all devices
 
 ### Currently Learning
 
@@ -125,59 +107,34 @@ const mohamed = {
 
 <br/>
 
-## GitHub Statistics
+## Featured Projects
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedFadl2344&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=FFFFFF&cache_seconds=1800"/>
-
-</div>
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Portfolio Website** | Modern, responsive portfolio with smooth animations | React, TypeScript, Tailwind CSS, Framer Motion | [Live](https://mohamedfadl-portfolio.vercel.app) |
+| **DeepChat AI** | AI-powered chat interface with optimized architecture | React 19, TypeScript, Bootstrap | [Live](https://deepchat-3286d.firebaseapp.com/) • [GitHub](https://github.com/MohamedFadl2344/DeepChat.git) |
+| **Fashion Shop** | E-commerce platform with product filtering and cart | React, Vite, Bootstrap 5 | [Live](https://fashion-shop-4bf1a.web.app/) • [GitHub](https://github.com/MohamedFadl2344/clothing-store-platform.git) |
+| **Quran Web App** | Clean interface for Quran browsing and audio playback | React, Tailwind CSS | [Live](https://quran-karim-276a1.web.app/) • [GitHub](https://github.com/MohamedFadl2344/quran_website.git) |
 
 <br/>
 
+## GitHub Activity
+
 <div align="center">
+
+### 📊 Contribution Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohamedFadl2344&theme=tokyonight&hide_border=true&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF)
 
-</div>
+### 📈 Contribution Graph
 
-<br/>
+![Contribution Graph](https://ghchart.rshah.org/00C8FF/MohamedFadl2344)
 
-<div align="center">
+### 💻 Coding Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFadl2344&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C8FF&line=00C8FF&point=FFFFFF)
+[![Mohamed's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedFadl2344&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF)](https://github.com/MohamedFadl2344)
 
-</div>
-
-<br/>
-
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Portfolio Website** | Modern, responsive portfolio with smooth animations | React, TypeScript, Tailwind CSS, Framer Motion |
-| **DeepChat AI** | AI-powered chat interface with optimized architecture | React 19, TypeScript, Bootstrap |
-| **Fashion Shop** | E-commerce platform with product filtering and cart | React, Vite, Bootstrap 5 |
-| **Quran Web App** | Clean interface for Quran browsing and audio playback | React, Tailwind CSS |
-
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-
-![GitHub Contribution Grid](https://ghchart.rshah.org/00C8FF/MohamedFadl2344)
-
-</div>
-
-<br/>
-
-## Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=FFFFFF)](https://github.com/MohamedFadl2344)
 
 </div>
 
@@ -187,20 +144,15 @@ const mohamed = {
 
 <div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities!
-
-<br/>
+**I'm always open to interesting conversations and collaboration opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Fadl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfadl--portfolio.vercel.app-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedfadl-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedFadl2344-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFadl2344)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedfadl0010@gmail.com)
 
-<br/>
-
-**Open for:** Freelance Projects | Collaboration | Full-time Opportunities  
-**Timezone:** GMT+2 (Cairo)  
-**Response Time:** Usually within 24 hours
+**Open for:** Freelance Projects • Collaboration • Full-time Opportunities  
+**Timezone:** GMT+2 (Cairo) • **Response Time:** Usually within 24 hours
 
 </div>
 
@@ -211,8 +163,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer)
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-<br/>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=MohamedFadl2344&label=Profile%20Visitors&countColor=%2300C8FF&style=flat&labelStyle=none)](https://visitorbadge.io/status)
 
