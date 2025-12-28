@@ -14,7 +14,7 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/About_Me-00C8FF?style=flat-square" alt="About Me" />
+## About Me
 
 ```typescript
 const mohamed = {
@@ -69,7 +69,7 @@ const mohamed = {
 
 <br/>
 
-## <img src="https://img.shields.io/badge/Tech_Stack-00C8FF?style=flat-square" alt="Tech Stack" />
+## Tech Stack
 
 <div align="center">
 
@@ -125,7 +125,7 @@ const mohamed = {
 
 <br/>
 
-## <img src="https://img.shields.io/badge/GitHub_Statistics-00C8FF?style=flat-square" alt="GitHub Statistics" />
+## GitHub Statistics
 
 <div align="center">
   
@@ -160,7 +160,7 @@ const mohamed = {
 
 <br/>
 
-## <img src="https://img.shields.io/badge/Featured_Projects-00C8FF?style=flat-square" alt="Featured Projects" />
+## Featured Projects
 
 <div align="center">
 
@@ -181,7 +181,7 @@ const mohamed = {
 
 <br/>
 
-## <img src="https://img.shields.io/badge/Contribution_Activity-00C8FF?style=flat-square" alt="Contribution Activity" />
+## Contribution Activity
 
 <div align="center">
 
@@ -191,7 +191,7 @@ const mohamed = {
 
 <br/>
 
-## <img src="https://img.shields.io/badge/Random_Dev_Quote-00C8FF?style=flat-square" alt="Random Dev Quote" />
+## Random Dev Quote
 
 <div align="center">
 
@@ -201,7 +201,7 @@ const mohamed = {
 
 <br/>
 
-## <img src="https://img.shields.io/badge/Let's_Connect-00C8FF?style=flat-square" alt="Let's Connect" />
+## Let's Connect
 
 <div align="center">
 
@@ -227,8 +227,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer)
-
-<img src="https://img.shields.io/badge/From-MohamedFadl2344-00C8FF?style=for-the-badge" alt="From MohamedFadl2344" />
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
