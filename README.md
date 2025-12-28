@@ -6,17 +6,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=MohamedFadl2344&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-engineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedfadl-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedfadl0010@gmail.com)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/About_Me-00C8FF?style=for-the-badge" alt="About Me" />
-</div>
+## <img src="https://img.shields.io/badge/About_Me-00C8FF?style=flat-square" alt="About Me" />
 
 ```typescript
 const mohamed = {
@@ -37,51 +35,45 @@ const mohamed = {
 };
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/What_I_Do-00C8FF?style=for-the-badge" alt="What I Do" />
-</div>
+### What I Do
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Crafting Pixel-Perfect UIs</h3>
-      <p>Transforming designs into responsive, accessible interfaces</p>
+      <b>Crafting Pixel-Perfect UIs</b><br/>
+      Transforming designs into responsive, accessible interfaces
     </td>
     <td width="50%">
-      <h3>Performance Optimization</h3>
-      <p>Building fast, efficient web applications</p>
+      <b>Performance Optimization</b><br/>
+      Building fast, efficient web applications
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Component Architecture</h3>
-      <p>Creating reusable, maintainable code structures</p>
+      <b>Component Architecture</b><br/>
+      Creating reusable, maintainable code structures
     </td>
     <td width="50%">
-      <h3>Mobile-First Development</h3>
-      <p>Ensuring seamless experiences across all devices</p>
+      <b>Mobile-First Development</b><br/>
+      Ensuring seamless experiences across all devices
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-00C8FF?style=for-the-badge" alt="Currently Learning" />
-</div>
+### Currently Learning
 
 - Working on **advanced React patterns** and **TypeScript mastery**
 - Building **full-stack applications** with modern frameworks
 - Learning **Web Performance Optimization** and **Advanced CSS Animations**
 - Exploring **Web Accessibility (a11y)** and **Design Systems**
 
----
+<br/>
+
+## <img src="https://img.shields.io/badge/Tech_Stack-00C8FF?style=flat-square" alt="Tech Stack" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Tech_Stack-00C8FF?style=for-the-badge" alt="Tech Stack" />
-</div>
 
-<div align="center">
-
-<h3>Languages</h3>
+### Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5" />
@@ -93,7 +85,7 @@ const mohamed = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
 </p>
 
-<h3>Frontend Frameworks & Libraries</h3>
+### Frontend Frameworks & Libraries
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
@@ -103,7 +95,7 @@ const mohamed = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" title="Vite" />
 </p>
 
-<h3>Styling & UI</h3>
+### Styling & UI
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
@@ -113,7 +105,7 @@ const mohamed = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50" alt="Sass" title="Sass" />
 </p>
 
-<h3>Tools & Platforms</h3>
+### Tools & Platforms
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
@@ -131,11 +123,9 @@ const mohamed = {
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub_Statistics-00C8FF?style=for-the-badge" alt="GitHub Statistics" />
-</div>
+## <img src="https://img.shields.io/badge/GitHub_Statistics-00C8FF?style=flat-square" alt="GitHub Statistics" />
 
 <div align="center">
   
@@ -168,11 +158,9 @@ const mohamed = {
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Featured_Projects-00C8FF?style=for-the-badge" alt="Featured Projects" />
-</div>
+## <img src="https://img.shields.io/badge/Featured_Projects-00C8FF?style=flat-square" alt="Featured Projects" />
 
 <div align="center">
 
@@ -184,21 +172,16 @@ const mohamed = {
 
 <br/>
 
-<div align="center">
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Portfolio Website** | Modern, responsive portfolio with smooth animations | React, TypeScript, Tailwind CSS, Framer Motion |
-| **E-Commerce Platform** | Full-featured online shopping experience | React, Context API, Bootstrap |
-| **Responsive Dashboard** | Admin dashboard with data visualization | React, Chart.js, Tailwind CSS |
+| **DeepChat AI** | AI-powered chat interface with optimized architecture | React 19, TypeScript, Bootstrap |
+| **Fashion Shop** | E-commerce platform with product filtering and cart | React, Vite, Bootstrap 5 |
+| **Quran Web App** | Clean interface for Quran browsing and audio playback | React, Tailwind CSS |
 
-</div>
+<br/>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Contribution_Activity-00C8FF?style=for-the-badge" alt="Contribution Activity" />
-</div>
+## <img src="https://img.shields.io/badge/Contribution_Activity-00C8FF?style=flat-square" alt="Contribution Activity" />
 
 <div align="center">
 
@@ -206,11 +189,9 @@ const mohamed = {
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Random_Dev_Quote-00C8FF?style=for-the-badge" alt="Random Dev Quote" />
-</div>
+## <img src="https://img.shields.io/badge/Random_Dev_Quote-00C8FF?style=flat-square" alt="Random Dev Quote" />
 
 <div align="center">
 
@@ -218,11 +199,9 @@ const mohamed = {
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Let's_Connect-00C8FF?style=for-the-badge" alt="Let's Connect" />
-</div>
+## <img src="https://img.shields.io/badge/Let's_Connect-00C8FF?style=flat-square" alt="Let's Connect" />
 
 <div align="center">
 
@@ -230,10 +209,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Fadl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-engineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Fadl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfadl--portfolio.vercel.app-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedfadl-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedFadl2344-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFadl2344)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedfadl0010@gmail.com)
 
 <br/>
 
@@ -243,7 +222,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
