@@ -129,8 +129,8 @@ const mohamed = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedFadl2344&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedFadl2344&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=FFFFFF&cache_seconds=1800"/>
 
 </div>
 
@@ -138,7 +138,7 @@ const mohamed = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedFadl2344&theme=tokyonight&hide_border=true&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=MohamedFadl2344&theme=tokyonight&hide_border=true&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF)
 
 </div>
 
@@ -146,31 +146,13 @@ const mohamed = {
 
 <div align="center">
 
-[![Mohamed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFadl2344&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C8FF&line=00C8FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedFadl2344&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFadl2344&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C8FF&line=00C8FF&point=FFFFFF)
 
 </div>
 
 <br/>
 
 ## Featured Projects
-
-<div align="center">
-
-<a href="https://mohamedfadl-portfolio.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedFadl2344&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<br/>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -185,7 +167,7 @@ const mohamed = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/MohamedFadl2344/MohamedFadl2344/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Grid](https://ghchart.rshah.org/00C8FF/MohamedFadl2344)
 
 </div>
 
@@ -230,6 +212,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/MohamedFadl2344/count.svg)
+<br/>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=MohamedFadl2344&label=Profile%20Visitors&countColor=%2300C8FF&style=flat&labelStyle=none)](https://visitorbadge.io/status)
 
 </div>
