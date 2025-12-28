@@ -14,7 +14,9 @@
 
 ---
 
-## 💻 About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/About_Me-00C8FF?style=for-the-badge" alt="About Me" />
+</div>
 
 ```typescript
 const mohamed = {
@@ -35,15 +37,36 @@ const mohamed = {
 };
 ```
 
-### What I Do
+<div align="center">
+  <img src="https://img.shields.io/badge/What_I_Do-00C8FF?style=for-the-badge" alt="What I Do" />
+</div>
 
-- **Crafting Pixel-Perfect UIs** — Transforming designs into responsive, accessible interfaces
-- **Performance Optimization** — Building fast, efficient web applications
-- **Component Architecture** — Creating reusable, maintainable code structures
-- **Mobile-First Development** — Ensuring seamless experiences across all devices
-- **Modern Tooling** — Leveraging the latest front-end technologies and best practices
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Crafting Pixel-Perfect UIs</h3>
+      <p>Transforming designs into responsive, accessible interfaces</p>
+    </td>
+    <td width="50%">
+      <h3>Performance Optimization</h3>
+      <p>Building fast, efficient web applications</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Component Architecture</h3>
+      <p>Creating reusable, maintainable code structures</p>
+    </td>
+    <td width="50%">
+      <h3>Mobile-First Development</h3>
+      <p>Ensuring seamless experiences across all devices</p>
+    </td>
+  </tr>
+</table>
 
-### Currently
+<div align="center">
+  <img src="https://img.shields.io/badge/Currently_Learning-00C8FF?style=for-the-badge" alt="Currently Learning" />
+</div>
 
 - Working on **advanced React patterns** and **TypeScript mastery**
 - Building **full-stack applications** with modern frameworks
@@ -52,59 +75,67 @@ const mohamed = {
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-00C8FF?style=for-the-badge" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
-### Languages
+<h3>Languages</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
 </p>
 
-### Frontend Frameworks & Libraries
+<h3>Frontend Frameworks & Libraries</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" title="Next.js" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" title="Vite" />
 </p>
 
-### Styling & UI
+<h3>Styling & UI</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" title="Bootstrap" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50" alt="Sass" title="Sass" />
 </p>
 
-### Tools & Platforms
+<h3>Tools & Platforms</h3>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" title="NPM" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" title="Figma" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="50" alt="Vercel" title="Vercel" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub_Statistics-00C8FF?style=for-the-badge" alt="GitHub Statistics" />
+</div>
 
 <div align="center">
   
@@ -113,17 +144,23 @@ const mohamed = {
 
 </div>
 
+<br/>
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedFadl2344&theme=tokyonight&hide_border=true&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 <div align="center">
 
 [![Mohamed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedFadl2344&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C8FF&line=00C8FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<br/>
 
 <div align="center">
   
@@ -133,7 +170,9 @@ const mohamed = {
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/Featured_Projects-00C8FF?style=for-the-badge" alt="Featured Projects" />
+</div>
 
 <div align="center">
 
@@ -143,7 +182,9 @@ const mohamed = {
 
 </div>
 
-### Project Highlights
+<br/>
+
+<div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -151,9 +192,13 @@ const mohamed = {
 | **E-Commerce Platform** | Full-featured online shopping experience | React, Context API, Bootstrap |
 | **Responsive Dashboard** | Admin dashboard with data visualization | React, Chart.js, Tailwind CSS |
 
+</div>
+
 ---
 
-## 📈 Contribution Activity
+<div align="center">
+  <img src="https://img.shields.io/badge/Contribution_Activity-00C8FF?style=for-the-badge" alt="Contribution Activity" />
+</div>
 
 <div align="center">
 
@@ -163,7 +208,9 @@ const mohamed = {
 
 ---
 
-## 💬 Random Dev Quote
+<div align="center">
+  <img src="https://img.shields.io/badge/Random_Dev_Quote-00C8FF?style=for-the-badge" alt="Random Dev Quote" />
+</div>
 
 <div align="center">
 
@@ -173,16 +220,22 @@ const mohamed = {
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
+  <img src="https://img.shields.io/badge/Let's_Connect-00C8FF?style=for-the-badge" alt="Let's Connect" />
+</div>
 
 <div align="center">
 
 I'm always open to interesting conversations and collaboration opportunities!
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Fadl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-engineer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamedfadl--portfolio.vercel.app-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedfadl-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-MohamedFadl2344-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedFadl2344)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
 
 **Open for:** Freelance Projects | Collaboration | Full-time Opportunities  
 **Timezone:** GMT+2 (Cairo)  
@@ -196,12 +249,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer)
 
-### ⭐ From [MohamedFadl2344](https://github.com/MohamedFadl2344)
+<img src="https://img.shields.io/badge/From-MohamedFadl2344-00C8FF?style=for-the-badge" alt="From MohamedFadl2344" />
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 ![Visitor Count](https://profile-counter.glitch.me/MohamedFadl2344/count.svg)
-
-**Made with ❤️ and lots of ☕**
 
 </div>
