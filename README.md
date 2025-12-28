@@ -122,19 +122,11 @@ const mohamed = {
 
 <div align="center">
 
-### 📊 Contribution Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohamedFadl2344&theme=tokyonight&hide_border=true&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF)
 
-### 📈 Contribution Graph
+<br/>
 
 ![Contribution Graph](https://ghchart.rshah.org/00C8FF/MohamedFadl2344)
-
-### 💻 Coding Activity
-
-[![Mohamed's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedFadl2344&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF)](https://github.com/MohamedFadl2344)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohamedFadl2344&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=FFFFFF)](https://github.com/MohamedFadl2344)
 
 </div>
 
