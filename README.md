@@ -106,16 +106,6 @@ Frontend Engineer with 3+ years building React.js and Next.js applications. Spec
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MohamedFadl2344&theme=tokyonight&hide_border=true&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF)
-
-</div>
-
-<br/>
-
 ## Let's Connect
 
 <div align="center">
