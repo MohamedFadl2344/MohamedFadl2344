@@ -111,10 +111,11 @@ const mohamed = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Portfolio Website** | Modern, responsive portfolio with smooth animations | React, TypeScript, Tailwind CSS, Framer Motion | [Live](https://mohamedfadl-portfolio.vercel.app) |
-| **DeepChat AI** | AI-powered chat interface with optimized architecture | React 19, TypeScript, Bootstrap | [Live](https://deepchat-3286d.firebaseapp.com/) • [GitHub](https://github.com/MohamedFadl2344/DeepChat.git) |
-| **Fashion Shop** | E-commerce platform with product filtering and cart | React, Vite, Bootstrap 5 | [Live](https://fashion-shop-4bf1a.web.app/) • [GitHub](https://github.com/MohamedFadl2344/clothing-store-platform.git) |
-| **Quran Web App** | Clean interface for Quran browsing and audio playback | React, Tailwind CSS | [Live](https://quran-karim-276a1.web.app/) • [GitHub](https://github.com/MohamedFadl2344/quran_website.git) |
+| **OSIG** | Modern web application with clean architecture | React, TypeScript, Tailwind CSS | [Live](https://osig.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/OSIG.git) |
+| **Tourism** | Tourism platform with responsive design | React, Next.js, Tailwind CSS | [Live](https://tourism-ten-kappa.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/Tourism.git) |
+| **Justice** | Legal services web application | React, TypeScript, Styled Components | [Live](https://justice-azure.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/justice.git) |
+| **Buma** | Business management platform | React, Vite, Bootstrap | [Live](https://buma-rho.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/buma.git) |
+| **Enco** | Enterprise collaboration tool | React, TypeScript, Tailwind CSS | [Live](https://enco-iota.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/enco.git) |
 
 <br/>
 
