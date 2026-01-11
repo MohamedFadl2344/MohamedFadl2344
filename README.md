@@ -2,12 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mohamed%20Fadl&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Engineer%20(React.js%20%7C%20Next.js%20%7C%20TypeScript)&descSize=18&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Building+scalable,+high-performance+web+interfaces;React+•+Next.js+•+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Building+scalable+and+high-performance+web+interfaces;React+•+Next.js+•+TypeScript)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedFadl2344&label=Profile%20Views&color=0e75b6&style=flat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedfadl-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ui-pi-ten.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedfadl0010@gmail.com)
 
 </div>
