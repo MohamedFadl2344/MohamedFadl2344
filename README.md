@@ -115,7 +115,7 @@ const mohamed = {
 | **Tourism** | Tourism platform with responsive design | React, Next.js, Tailwind CSS | [Live](https://tourism-ten-kappa.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/Tourism.git) |
 | **Justice** | Legal services web application | React, TypeScript, Styled Components | [Live](https://justice-azure.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/justice.git) |
 | **Buma** | Business management platform | React, Vite, Bootstrap | [Live](https://buma-rho.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/buma.git) |
-| **Enco** | Enterprise collaboration tool | React, TypeScript, Tailwind CSS | [Live](https://enco-iota.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/enco.git) |
+| **Enco** | Enterprise collaboration tool | Next.js, TypeScript, Tailwind CSS | [Live](https://enco-iota.vercel.app/) • [GitHub](https://github.com/MohamedFadl2344/enco.git) |
 
 <br/>
 
