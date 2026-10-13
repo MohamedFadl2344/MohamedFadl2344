@@ -24,14 +24,14 @@
 
 ## About Me
 
-I am a **Software and Full-Stack Engineer** with an engineering background in **Electronics and Communications Engineering**. Over the past 3+ years (since 2022), I have delivered production-grade software solutions—collaborating within agile development teams and shipping applications independently as a freelancer.
+I am a **Software and Full-Stack Engineer** with an engineering background in **Electronics and Communications Engineering**. Over the past 3+ years, I have built production-grade applications across freelance client projects and collaborative agile teams.
 
-My core focus centers on **Software & Full-Stack Engineering (Web & Desktop Platforms)**, reinforced by an engineering background in networking and communications:
-- **Full-Stack Web Engineering:** Building responsive, scalable, and SEO-optimized web applications with React, Next.js, TypeScript, Node.js, Express, and modern distributed databases (MongoDB, Neon PostgreSQL, Supabase).
-- **Desktop Application Engineering:** Developing modular desktop applications using Python and PySide6 / Qt with performant GUI architectures.
-- **Engineering Foundation (Networks & Telecom):** Hands-on grounding in network administration (CCNA, MCSA), IT support troubleshooting, cellular generations (2G to 4G/5G), and microcontroller firmware (Embedded C).
+My primary focus is **Software and Full-Stack Engineering across web and desktop platforms**:
+- **Full-Stack Web Engineering:** Developing responsive, scalable web applications using React, Next.js, TypeScript, Node.js, Express, and modern databases including MongoDB, Neon PostgreSQL, and Supabase.
+- **Desktop Application Engineering:** Building modular desktop software with Python and PySide6 / Qt.
+- **Engineering Foundation (Networks & Telecom):** Hands-on grounding in network administration (CCNA, MCSA), IT troubleshooting, cellular architectures (2G to 4G/5G), and microcontroller firmware in Embedded C.
 
-> **Engineering Philosophy:** *"Engineering value is created at the intersection—where clean software architecture meets deep understanding of underlying network and system infrastructure."*
+> **Engineering Philosophy:** *"High-impact software combines clean architectural design with deep system fundamentals."*
 
 ---
 
