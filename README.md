@@ -3,7 +3,7 @@
 # Mohamed Fadl
 ### Software & Full-Stack Engineer | Electronics & Communications Graduate (2025)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+•+React+•+Next.js+•+TypeScript+•+Node.js;Desktop+Software+Engineering+•+Python+•+PySide6+(Qt);Electronics+%26+Communications+Engineer+(Class+of+2025);Systems+Architecture+•+IoT+•+Network+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=780&lines=Full-Stack+Web+•+React+•+Next.js+•+TypeScript+•+Node.js;Desktop+Software+Engineering+•+Python+•+PySide6+(Qt);Electronics+%26+Communications+Engineer+(Class+of+2025);Network+Infrastructure+(CCNA+•+MCSA)+•+Cellular+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedFadl2344&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![Career Status](https://img.shields.io/badge/Status-Available_for_Software_&_Engineering_Roles-0284c7?style=flat-square)](mailto:mohamedfadl0010@gmail.com)
 
 </div>
 
@@ -24,12 +24,12 @@
 
 ## About Me
 
-I am a **Software and Full-Stack Engineer** with an academic background in **Electronics and Communications Engineering (Class of 2025)**. Over the past 3+ years (since 2022), I have delivered production-ready software solutions—collaborating within agile development teams and delivering client applications independently as a freelancer.
+I am a **Software and Full-Stack Engineer** with an academic foundation in **Electronics and Communications Engineering (Class of 2025)**. Over the past 3+ years (since 2022), I have delivered production-grade software solutions—collaborating within agile development teams and shipping applications independently as a freelancer.
 
-My core career focus is **Software & Full-Stack Engineering (Web & Desktop Platforms)**, powered by a rare engineering advantage:
-- **Full-Stack Web Engineering:** Building scalable, responsive, and SEO-optimized web applications with React, Next.js, TypeScript, Node.js, Express, and modern distributed databases (MongoDB, Neon PostgreSQL, Supabase).
-- **Desktop Application Engineering:** Designing native desktop applications with Python and PySide6 / Qt, focusing on clean modular architecture and responsive user workflows.
-- **Engineering Foundation (Hardware & Networks):** Possessing deep academic and hands-on comprehension of microcontroller architectures, network protocols (TCP/IP, routing, 4G/5G), and telemetry interfaces.
+My core focus centers on **Software & Full-Stack Engineering (Web & Desktop Platforms)**, reinforced by an engineering background in networking and communications:
+- **Full-Stack Web Engineering:** Building responsive, scalable, and SEO-optimized web applications with React, Next.js, TypeScript, Node.js, Express, and modern distributed databases (MongoDB, Neon PostgreSQL, Supabase).
+- **Desktop Application Engineering:** Developing modular desktop applications using Python and PySide6 / Qt with performant GUI architectures.
+- **Engineering Foundation (Networks & Telecom):** Hands-on grounding in network administration (CCNA, MCSA), IT support troubleshooting, cellular generations (2G to 4G/5G), and microcontroller firmware (Embedded C).
 
 > **Engineering Philosophy:** *"Engineering value is created at the intersection—where clean software architecture meets deep understanding of underlying network and system infrastructure."*
 
@@ -101,52 +101,13 @@ My core career focus is **Software & Full-Stack Engineering (Web & Desktop Platf
 
 ---
 
-### Engineering Depth: Embedded Systems & Network Infrastructure
+### Engineering Depth: Networks, Telecom & Embedded Systems
 
-<details>
-<summary><b>Click to explore Engineering Foundation & Telecommunications background</b></summary>
-
-<div align="center">
-<br/>
-
-#### Embedded Systems & IoT
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" title="C" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" title="C++" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38" alt="Arduino" title="Arduino" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" title="Linux" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/platformio/platformio-original.svg" height="38" alt="PlatformIO" title="PlatformIO" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/AVR_ATmega-005B94?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Protocols-UART_•_SPI_•_I2C_•_CAN-1e293b?style=for-the-badge" alt="Buses" />
-</p>
-
-#### Telecommunications & Computer Networks
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-Packet_Inspection-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="38" alt="MATLAB" title="MATLAB" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="38" alt="Bash" title="Bash Scripting" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/5G_NR-Cellular_RAN-0071C5?style=for-the-badge&logo=qualcomm&logoColor=white" alt="5G" />
-  <img src="https://img.shields.io/badge/4G_LTE-Broadband_Architecture-0284c7?style=for-the-badge" alt="4G" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-Protocols_%26_Addressing-0f172a?style=for-the-badge" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/Routing_&_Switching-OSPF_•_VLANs_•_NAT-0369a1?style=for-the-badge" alt="Network Config" />
-</p>
-
-</div>
-</details>
+| Engineering Domain | Core Competencies | Tools & Scope | Practical Roles |
+|:---|:---|:---|:---:|
+| **Computer Networks & Systems** | **CCNA & MCSA**: Routing, Switching, VLANs, IPv4/IPv6 Subnetting, Active Directory, Windows Server Administration | Cisco Packet Tracer, Wireshark, CLI | Network Support, System Admin, **IT Help Desk** |
+| **Mobile Cellular Communications** | **Cellular Evolution & Standards**: 2G (GSM), 3G (UMTS), **4G (LTE / EPC)**, and 5G (NR Architecture) | Cellular Network Architecture & RF Fundamentals | Wireless & Cellular Systems Engineering |
+| **Embedded Systems Engineering** | **Firmware Development (Embedded C)**: Layered Architecture (MCAL & HAL) for ATmega32 (DIO, Timers, ADC, LCD, Keypad) | C, AVR ATmega32, Keil µVision, Proteus | Firmware Developer, Microcontroller Programmer |
 
 ---
 
@@ -162,16 +123,6 @@ My core career focus is **Software & Full-Stack Engineering (Web & Desktop Platf
 | **Buma** | Business Workflow & Analytics Platform | React.js, Vite, Bootstrap 5 | [Live Demo](https://buma-rho.vercel.app/) \| [Source Code](https://github.com/MohamedFadl2344/buma.git) |
 | **Enco** | Performance-Optimized Corporate Site | Next.js, SSR, SSG, Web Vitals | [Live Demo](https://enco-iota.vercel.app/) \| [Source Code](https://github.com/MohamedFadl2344/enco.git) |
 | **WhiteInk Suite** | Desktop Application | Python, PySide6 / Qt | Desktop Software |
-
-<br/>
-
-### Systems & Engineering Research
-
-| System / Prototype | Domain Focus | Architecture & Tools | Status |
-|:---|:---|:---|:---:|
-| **Smart IoT Telemetry Hub** | Sensor acquisition with cloud dashboard telemetry | ESP32, C++, MQTT, Next.js | Active Development |
-| **Enterprise Network Topology Design** | Enterprise infrastructure with redundant routing, VLANs, and NAT | Cisco Packet Tracer, OSPF, Switching | Completed |
-| **Microcontroller Peripheral Drivers** | Layered driver package (DIO, LCD, Keypad, Timer, ADC) | C, AVR ATmega32, ARM, Keil | Documented |
 
 ---
 
@@ -202,7 +153,5 @@ Available for Software & Full-Stack Engineering roles, Desktop Software engageme
 <br/>
 
 **"Engineering value is created at the intersection where clean software architecture meets deep system fundamentals."**
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=MohamedFadl2344&label=Profile%20Visitors&countColor=%2300C8FF&style=flat&labelStyle=none)](https://visitorbadge.io/status)
 
 </div>
