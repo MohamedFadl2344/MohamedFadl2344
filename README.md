@@ -1,9 +1,9 @@
 <div align="center">
 
 # Mohamed Fadl
-### Software & Full-Stack Engineer | Electronics & Communications Graduate (2025)
+### Software & Full-Stack Engineer | Electronics & Communications Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=780&lines=Full-Stack+Web+•+React+•+Next.js+•+TypeScript+•+Node.js;Desktop+Software+Engineering+•+Python+•+PySide6+(Qt);Electronics+%26+Communications+Engineer+(Class+of+2025);Network+Infrastructure+(CCNA+•+MCSA)+•+Cellular+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+•+React+•+Next.js+•+TypeScript+•+Node.js;Desktop+Software+Engineering+•+Python+•+PySide6+(Qt);Electronics+%26+Communications+Engineer;Network+Infrastructure+(CCNA+•+MCSA)+•+Cellular+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a **Software and Full-Stack Engineer** with an academic foundation in **Electronics and Communications Engineering (Class of 2025)**. Over the past 3+ years (since 2022), I have delivered production-grade software solutions—collaborating within agile development teams and shipping applications independently as a freelancer.
+I am a **Software and Full-Stack Engineer** with an engineering background in **Electronics and Communications Engineering**. Over the past 3+ years (since 2022), I have delivered production-grade software solutions—collaborating within agile development teams and shipping applications independently as a freelancer.
 
 My core focus centers on **Software & Full-Stack Engineering (Web & Desktop Platforms)**, reinforced by an engineering background in networking and communications:
 - **Full-Stack Web Engineering:** Building responsive, scalable, and SEO-optimized web applications with React, Next.js, TypeScript, Node.js, Express, and modern distributed databases (MongoDB, Neon PostgreSQL, Supabase).
